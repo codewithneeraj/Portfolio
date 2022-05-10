@@ -44,6 +44,6 @@ Users should be able to:
 ## Author
 
 - Website - [Neeraj Chauhan](https://www.codewithneeraj.com)
-- Linedin- [@codewithneeraj](https://www.linkedin.com/in/codewithneeraj/)
+- Linkedin- [@codewithneeraj](https://www.linkedin.com/in/codewithneeraj/)
 - Twitter - [@codewithneeraj](https://www.twitter.com/codewithneeraj)
 
